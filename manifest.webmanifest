@@ -1,6 +1,6 @@
 {
-  "name": "Breeder Compliance Checks",
-  "short_name": "Breeder Compliance Checks",
+  "name": "Breeder Compliance Checks (Admin)",
+  "short_name": "BCC Admin",
   "description": "PS and GP compliance checklists: IPM, biosecurity and vaccination audits.",
   "start_url": "./index.html",
   "scope": "./",
